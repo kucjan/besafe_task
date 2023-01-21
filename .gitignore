@@ -1,4 +1,5 @@
 .DS_Store
+/besafe_taskenv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
