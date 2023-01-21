@@ -36,7 +36,7 @@ $ pip3 install -r requirements.txt
 ```
 5. Open the `train_model.ipynb` notebook to see how model was built and what are the results.
   You can run last cell to test saved model on training data.
-6. Run the `test_model.ipynb` notebook to test saved model on new data.
+6. Run the `test_model.ipynb` notebook to test model on new data.
 7. Once you're done working on the project, deactivate the virtual environment:
 ```bash
 $ deactivate
