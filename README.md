@@ -15,7 +15,7 @@ The project is organized as follows:
 
 ## Results
 
-Choosing th final version of model was decision between highly overfitting network with satisfying results on training data or model in which overfitting was eliminated by dropouts and regularizers, at the sacrifice of acceptable precision - training and validation loss (MSE) were on about 140 level. Version with overfitting and good results on training set was left to show that the prediction works fine at least there.
+Choosing the final version of model was decision between highly overfitting network with satisfying results on training data or model in which overfitting was eliminated by dropouts and regularizers, at the sacrifice of acceptable precision - training and validation loss (MSE) were on about 140 level. Version with overfitting and good results on training set was left to show that the prediction works fine at least there.
 
 ## Installation
 
