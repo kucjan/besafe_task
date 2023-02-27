@@ -22,13 +22,13 @@ Choosing the final version of model was a decision between highly overfitting ne
 1. Make sure you have python3 installed in your system. 
 2. Clone the repository:
 ```bash
-$ git clone https://github.com/kucjan/besafe_task.git
+$ git clone https://github.com/kucjan/line_start_end.git
 ```
 2. Navigate to the project directory.
 3. Create and activate a virtual environment:
 ```bash
-$ python3 -m venv besafe_taskenv
-$ source besafe_taskenv/bin/activate
+$ python3 -m venv line_env
+$ source line_env/bin/activate
 ```
 4. Install the required packages:
 ```bash
